@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Mukesh",
+        "salary": 35000,
+        "department": "Accounts"
+    },
+    {
+        "name": "Rahul",
+        "salary": 45000,
+        "department": "Sales"
+    },
+    {
+        "name": "mukesh kumarrr",
+        "salary": 70000,
+        "department": "ceo"
+    }
+]
